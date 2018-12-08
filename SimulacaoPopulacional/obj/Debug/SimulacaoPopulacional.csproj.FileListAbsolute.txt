@@ -1,0 +1,11 @@
+G:\My Drive\UCS\2018-4\Prog-Concorrente\SimulacaoPopulacional\SimulacaoPopulacional\bin\Debug\SimulacaoPopulacional.exe.config
+G:\My Drive\UCS\2018-4\Prog-Concorrente\SimulacaoPopulacional\SimulacaoPopulacional\bin\Debug\SimulacaoPopulacional.exe
+G:\My Drive\UCS\2018-4\Prog-Concorrente\SimulacaoPopulacional\SimulacaoPopulacional\bin\Debug\SimulacaoPopulacional.pdb
+G:\My Drive\UCS\2018-4\Prog-Concorrente\SimulacaoPopulacional\SimulacaoPopulacional\obj\Debug\SimulacaoPopulacional.csprojAssemblyReference.cache
+G:\My Drive\UCS\2018-4\Prog-Concorrente\SimulacaoPopulacional\SimulacaoPopulacional\obj\Debug\SimulacaoPopulacional.Properties.Resources.resources
+G:\My Drive\UCS\2018-4\Prog-Concorrente\SimulacaoPopulacional\SimulacaoPopulacional\obj\Debug\SimulacaoPopulacional.Views.frmSimulacao.resources
+G:\My Drive\UCS\2018-4\Prog-Concorrente\SimulacaoPopulacional\SimulacaoPopulacional\obj\Debug\SimulacaoPopulacional.Views.frmTelaInicial.resources
+G:\My Drive\UCS\2018-4\Prog-Concorrente\SimulacaoPopulacional\SimulacaoPopulacional\obj\Debug\SimulacaoPopulacional.csproj.GenerateResource.cache
+G:\My Drive\UCS\2018-4\Prog-Concorrente\SimulacaoPopulacional\SimulacaoPopulacional\obj\Debug\SimulacaoPopulacional.csproj.CoreCompileInputs.cache
+G:\My Drive\UCS\2018-4\Prog-Concorrente\SimulacaoPopulacional\SimulacaoPopulacional\obj\Debug\SimulacaoPopulacional.exe
+G:\My Drive\UCS\2018-4\Prog-Concorrente\SimulacaoPopulacional\SimulacaoPopulacional\obj\Debug\SimulacaoPopulacional.pdb
